@@ -1,0 +1,12 @@
+body {
+  background-color: #f5f7fb;
+  color: #293264;
+  box-sizing: border-box;
+}
+
+.quizboard-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -45%);
+}
